@@ -12,7 +12,11 @@ What you will submit:
 **Big O Notation**
 
 - [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
-  - I have learned that...
+  - I have learned that there are fours notation:
+    * Different steps get added. i.g: step 1 has O(n), step 2 has O(n) then we have O(n+n).
+    * Drop constants. Do not describe things as O(2n) or O(3n) because it is quadratic relationship.
+    * Different inputs, different variables.
+    * Drop non-dominate terms.
 - [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
 - [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
