@@ -22,7 +22,12 @@ What you will submit:
      * relative: you can only compare apples to apples. 
      * representation: Big-O (in its simplest form) reduces the comparison between algorithms to a single variable.
      * complexity: Complexity in this instance is a relative measure to something else.
-     * 
+  - Addition operation: The complexity (being the number of operations) is directly proportional to the number of digits n in the larger number. We call this O(n) or linear complexity.
+  - subtraction operation: is similar addition except you may need to borrow instead of carry.
+  - Multiplication operation: As the algorithm scales with n-squared, this is O(n2) or quadratic complexity.
+    We only care about the most significant portion of complexity.
+  - When we search element in an array, if it odered, then O(log n) (binary search), if it unordered then O(n).
+ 
 - [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
 - [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
