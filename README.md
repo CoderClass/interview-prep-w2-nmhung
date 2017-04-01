@@ -35,11 +35,11 @@ What you will submit:
   
 **Hashtables**
 
-- [ ] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
-- [ ] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
+- [x] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
+- [x] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
-- [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
+- [x] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
 - [ ] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
 **Coding**
