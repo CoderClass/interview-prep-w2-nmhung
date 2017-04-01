@@ -11,13 +11,13 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+- [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
   - I have learned that there are fours notation:
     * Different steps get added. i.g: step 1 has O(n), step 2 has O(n) then we have O(n+n).
     * Drop constants. Do not describe things as O(2n) or O(3n) because it is quadratic relationship.
     * Different inputs, different variables.
     * Drop non-dominate terms.
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+- [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that Big-O notation is a relative representation of the complexity of an algorithm.
      * relative: you can only compare apples to apples. 
      * representation: Big-O (in its simplest form) reduces the comparison between algorithms to a single variable.
@@ -28,10 +28,10 @@ What you will submit:
     We only care about the most significant portion of complexity.
   - When we search element in an array, if it odered, then O(log n) (binary search), if it unordered then O(n).
  
-- [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
+- [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me now.
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
-  - I have learned that...
+- [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+  - I have learned that binary search in array take O(log n).
   
 **Hashtables**
 
