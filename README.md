@@ -29,7 +29,7 @@ What you will submit:
   - When we search element in an array, if it odered, then O(log n) (binary search), if it unordered then O(n).
  
 - [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
-  - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
+  - This sheet makes more sense to me now.
 - [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
   - I have learned that...
   
