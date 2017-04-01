@@ -18,7 +18,11 @@ What you will submit:
     * Different inputs, different variables.
     * Drop non-dominate terms.
 - [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
+  - I have learned that Big-O notation is a relative representation of the complexity of an algorithm.
+     * relative: you can only compare apples to apples. 
+     * representation: Big-O (in its simplest form) reduces the comparison between algorithms to a single variable.
+     * complexity: Complexity in this instance is a relative measure to something else.
+     * 
 - [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
 - [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
